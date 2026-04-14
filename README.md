@@ -1,3 +1,4 @@
+**Supplementary material for the article submitted to the "Terminology" journal.**
 From Convergence to Asymmetry: A Distributional Analysis of Greco-Latin Terminological Elements in Kazakh, English, and Russian Lexicographical Canons
 
 This repository contains the Python code and supplementary materials for the lexical analysis presented in the article submitted to the **Terminology** journal. This repository is provided for peer-review purposes.
